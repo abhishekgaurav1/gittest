@@ -123,7 +123,19 @@ var ajaxMocks = function(responseMappings) {
          "plugins": [            
              { "name": "matrix-auth" },
              { "name": "pam-auth" },
-             { "name": "ldap" }
+             { "name": "ldap" }, 
+      // Tesco plugins start
+	     { "name": "google-analytics-usage-reporter" },
+ 	     { "name": "build-pipeline-plugin" },
+             { "name": "cloudbees-folder" },
+	     { "name": "disk-usage" },
+	     { "name": "email-ext-recipients-column" },
+	     { "name": "ghprb" },
+	     { "name": "jobConfigHistory-plugin" },
+	     { "name": "sonar" },
+	     { "name": "plugin-usage-plugin" },
+	     { "name": "swarm"}
+      // Tesco plugins end 
          ]
         },
         {
