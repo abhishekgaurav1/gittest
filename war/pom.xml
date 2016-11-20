@@ -357,6 +357,73 @@ THE SOFTWARE.
                   <version>1.11</version>
                   <type>hpi</type>
                 </artifactItem>
+               <!--
+                   Tesco Custom plugin start
+                -->
+                <artifactItem>
+                <groupId>org.jenkins-ci.plugins</groupId>
+                <artifactId>google-analytics-usage-reportre</artifactId>
+                  <version>0.4</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>build-pipeline-plugin</artifactId>
+                  <version>1.5.4</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                <groupId>org.jenkins-ci.plugins</groupId>
+                <artifactId>cloudbees-folder</artifactId>
+                <version>5.12</version>
+                <type>hpi</type>
+              </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>disk-usage</artifactId>
+                  <version>0.28</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>email-ext-recipients-column</artifactId>
+                  <version>1.0</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>ghprb</artifactId>
+                  <version>1.33.1</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                <groupId>org.jenkins-ci.plugins</groupId>
+                <artifactId>jobConfigHistory</artifactId>
+                <version>2.15</version>
+                <type>hpi</type>
+              </artifactItem>
+              <artifactItem>
+                <groupId>org.jenkins-ci.plugins</groupId>
+                <artifactId>plugin-usage-plugin</artifactId>
+                <version>0.3</version>
+                <type>hpi</type>
+              </artifactItem>
+              <artifactItem>
+                <groupId>org.jenkins-ci.plugins</groupId>
+                <artifactId>sonar</artifactId>
+                <version>2.4.4</version>
+                <type>hpi</type>
+              </artifactItem>
+               <artifactItem>
+                <groupId>org.jenkins-ci.plugins</groupId>
+                <artifactId>swarm</artifactId>
+                <version>2.2</version>
+                <type>hpi</type>
+              </artifactItem>
+                
+                <!--
+                   Tesco Custom plugins end
+                -->
                 <artifactItem>
                   <groupId>org.jenkins-ci.plugins</groupId>
                   <artifactId>pam-auth</artifactId>
