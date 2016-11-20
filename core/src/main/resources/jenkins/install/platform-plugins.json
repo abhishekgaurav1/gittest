@@ -88,7 +88,18 @@
             { "name": "pam-auth", "suggested": true },
             { "name": "ldap", "suggested": true },
             { "name": "role-strategy" },
-            { "name": "active-directory" }
+            { "name": "active-directory" },
+            // Tesco custom plugins
+            { "name": "ldap", "suggested": true },
+            { "name": "google-analytics-usage-reporter", "suggested": true },
+           // { "name": "build-pipeline-plugin", "suggested": true },
+           // { "name": "cloudbees-folder", "suggested": true },
+            { "name": "disk-usage", "suggested": true },
+            { "name": "email-ext-recipients-column", "suggested": true },
+            { "name": "ghprb", "suggested": true },
+            { "name": "jobConfigHistory", "suggested": true },
+            { "name": "sonar", "suggested": true }
+            // Tesco custom plugins
         ]
     },
     {
