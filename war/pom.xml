@@ -362,7 +362,7 @@ THE SOFTWARE.
                 -->
                 <artifactItem>
                 <groupId>org.jenkins-ci.plugins</groupId>
-                <artifactId>google-analytics-usage-reportre</artifactId>
+                <artifactId>google-analytics-usage-reporter</artifactId>
                   <version>0.4</version>
                   <type>hpi</type>
                 </artifactItem>
